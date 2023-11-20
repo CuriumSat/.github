@@ -34,7 +34,7 @@ The Curium 5 CubeSat mission goals are of educational nature. The key objectives
 
 
 In cooperation with HPI [operating system and middleware chair](https://osm.hpi.de) the project will include research for a master thesis.
-In cooperation with University of Viennas [walther group](https://walther.quantum.at) and [DLR remote sensing institute](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5279/8913_read-16239/) a experiment will be developed as satellite payload and is part of a PHD. 
+In cooperation with University of Viennas [walther group](https://walther.quantum.at) and [DLR remote sensing institute](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5279/8913_read-16239/) an experiment will be developed as satellite payload and is part of a PHD. 
 
 ## Technical Specifications
 
