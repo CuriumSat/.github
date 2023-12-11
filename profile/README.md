@@ -8,8 +8,6 @@
 
 # Project Overview: Curium 5
 
-![Banner Image](https://raw.githubusercontent.com/Curium-Five/.github/main/profile/media/banner.png)
-
 The Curium 5 project is designed around the development of 6U CubeSats, using components primarily sourced from commercial manufacturers. We utilize a launch opportunity from the [DLR microlauncher competition 2022](https://www.dlr.de/en/latest/news/2022/02/20220620_go-ahead-for-second-round-of-microlauncher-payload-competition) to validate the design.
 
 
