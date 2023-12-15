@@ -6,9 +6,9 @@
 👩‍💻 Useful resources - Docs are in the docs repository of the organisation - We use Obsidian for rendering
 -->
 
-# Project Overview: Curium 5
+# Project Overview: PTS Curium 5
 
-The Curium 5 project is designed around the development of 6U CubeSats, using components primarily sourced from commercial manufacturers. We utilize a launch opportunity from the [DLR microlauncher competition 2022](https://www.dlr.de/en/latest/news/2022/02/20220620_go-ahead-for-second-round-of-microlauncher-payload-competition) to validate the design.
+Planetary Transportation Systems Curium 5 project is designed around the development of 6U CubeSats, using components primarily sourced from commercial manufacturers. We utilize a launch opportunity from the [DLR microlauncher competition 2022](https://www.dlr.de/en/latest/news/2022/02/20220620_go-ahead-for-second-round-of-microlauncher-payload-competition) to validate the design.
 
 
 <div style="display: flex; justify-content: space-evenly;">
