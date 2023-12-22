@@ -20,12 +20,6 @@ Planetary Transportation Systems Curium 5 project is designed around the develop
   </figure>
 </div>
 
-## Project Goals
-
-The Curium 5 CubeSat mission goals are of educational nature. The key objectives include:
-
-- Acquiring experience in designing and producing CubeSat buses with commertial of the shelf (automotive) parts.
-- Using some hardware and software based on previous missions.
 
 # Research
 
