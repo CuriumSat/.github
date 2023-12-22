@@ -29,9 +29,8 @@ The Curium 5 CubeSat mission goals are of educational nature. The key objectives
 
 # Research
 
-
 In cooperation with HPI [operating system and middleware chair](https://osm.hpi.de) the project will include research for a master thesis.
-In cooperation with University of Viennas [walther group](https://walther.quantum.at) and [DLR remote sensing institute](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5279/8913_read-16239/) an experiment will be developed as satellite payload and is part of a PHD. 
+In cooperation with University of Vienna [walther group](https://walther.quantum.at) and [DLR remote sensing institute](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5279/8913_read-16239/) an experiment will be developed as satellite payload and is part of a PHD. 
 
 ## Technical Specifications
 
@@ -50,15 +49,15 @@ In cooperation with University of Viennas [walther group](https://walther.quantu
 - possibly reaction wheels
 
 ### Communication (Comm)
-- Amateur & commercial radio bands for uplink and downlink, with a data transfer rate of up to 50 kbps
-- Usage of ground station network SatNOGS
+- Utilization of Satnogs-Comms Board
+- Amateur & commercial radio bands for uplink and downlink, with a data transfer rate of up to 50 kbps (UHF) and possible use of S-Band
 - Antenna: simple monopole antennas with orthogonal radiation patterns to achieve quasi-isotropic radiation properties.
 
 ### Data Handling (OBC)
-- Computer: rad tolerant STM32H7 based 
+- Computer: STM32H7 based as rad testing indicates good long-term performance
 
 ### Launch & Lifetime
 - Launch vehicle: Designed along Vega C guidelines
-- Launch dates: Planned June 2024
+- First In Orbit Verification: June 2024 - A6 maiden flight
 - Estimated lifespan: >3 months
 
