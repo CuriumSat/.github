@@ -26,6 +26,9 @@ Planetary Transportation Systems Curium 5 project is designed around the develop
 In cooperation with HPI [operating system and middleware chair](https://osm.hpi.de) the project will include research for a master thesis.
 In cooperation with University of Vienna [Walther group](https://walther.quantum.at) and [DLR remote sensing institute](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5279/8913_read-16239/) an experiment will be developed as satellite payload and is part of a PHD. 
 
+# Open-Source
+Many components of the Curium5 cubesat are open sourced, including the On Board Computer, the communication subsystem, the Structure and its Battery. 
+
 ## Technical Specifications
 
 
