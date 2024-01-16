@@ -6,9 +6,9 @@
 👩‍💻 Useful resources - Docs are in the docs repository of the organisation - We use Obsidian for rendering
 -->
 
-# Project Overview: PTS Curium 5
+# Project Overview: PTS Curium 
 
-Planetary Transportation Systems Curium 5 project is designed around the development of 6U CubeSats, using components primarily sourced from commercial manufacturers. We utilize a launch opportunity from the [DLR microlauncher competition 2022](https://www.dlr.de/en/latest/news/2022/02/20220620_go-ahead-for-second-round-of-microlauncher-payload-competition) to validate the design.
+Planetary Transportation Systems Curium Sat project is designed around the development of 6U CubeSats, using components primarily sourced from commercial manufacturers. We utilize a launch opportunity from the [DLR microlauncher competition 2022](https://www.dlr.de/en/latest/news/2022/02/20220620_go-ahead-for-second-round-of-microlauncher-payload-competition) to validate the design.
 
 
 <div style="display: flex; justify-content: space-evenly;">
@@ -27,7 +27,7 @@ In cooperation with HPI [operating system and middleware chair](https://osm.hpi.
 In cooperation with University of Vienna [Walther group](https://walther.quantum.at) and [DLR remote sensing institute](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5279/8913_read-16239/) an experiment will be developed as satellite payload and is part of a PHD. 
 
 # Open-Source
-Many components of the Curium5 cubesat will be open-sourced, including the On Board Computer, the communication subsystem, the Structure and its Battery. 
+Many components of the Curium5 cubesat as well as their software will be open-sourced, including the On Board Computer, the communication subsystem, the Structure and its Battery. 
 
 ## Technical Specifications
 
@@ -43,7 +43,7 @@ Many components of the Curium5 cubesat will be open-sourced, including the On Bo
 
 ### Attitude Determination & Control (ADCS)
 - Magnetorquer
-- possibly reaction wheels
+- Possibly reaction wheels
 
 ### Communication (Comm)
 - Utilization of Satnogs-Comms Board
