@@ -8,7 +8,7 @@
 
 # Project Overview: PTS Curium 
 
-Planetary Transportation Systems Curium Sat project is designed around the development of 6U CubeSats, using components primarily sourced from commercial manufacturers. We utilize a launch opportunity from the [DLR microlauncher competition 2022](https://www.dlr.de/en/latest/news/2022/02/20220620_go-ahead-for-second-round-of-microlauncher-payload-competition) to validate the design.
+The Curium Sat project is designed around the development of 6U CubeSats, using components primarily sourced from commercial manufacturers. We utilize a launch opportunity from the [DLR microlauncher competition 2022](https://www.dlr.de/en/latest/news/2022/02/20220620_go-ahead-for-second-round-of-microlauncher-payload-competition) to validate the design. Planetary Transportation Systems GmbH funds the development and contributes to the open-source development.
 
 
 <div style="display: flex; justify-content: space-evenly;">
@@ -56,5 +56,4 @@ Many components of the Curium5 cubesat as well as their software will be open-so
 ### Launch & Lifetime
 - Launch vehicle: Designed along Vega C guidelines
 - First In Orbit Verification: June 2024 - A6 maiden flight
-- Estimated lifespan: >3 months
 
